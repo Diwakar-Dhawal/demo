@@ -1,0 +1,24 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "just another bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diwakar-Dhawal/github-bot.git"
+  },
+  "author": "Diwakar Dhawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diwakar-Dhawal/github-bot/issues"
+  },
+  "homepage": "https://github.com/Diwakar-Dhawal/github-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "random": "^4.1.0"
+  }
+}
